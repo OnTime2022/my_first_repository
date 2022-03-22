@@ -2,8 +2,8 @@
 
 ## coding
 
-* practice *
+*practice*
 
 I love 🥇, 🏖️ and 🥭.
 
-** This is bold text **
+**This is bold text**
